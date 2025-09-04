@@ -1,6 +1,6 @@
 {
   "name": "@types/fin-pro",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Shared TypeScript types, interfaces, and DTOs for loan management system",
   "type": "module",
   "main": "dist/index.js",
