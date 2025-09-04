@@ -1,5 +1,5 @@
 {
-  "name": "@kmrschnio/fin-pro",
+  "name": "fin-pro-types",
   "version": "1.0.4",
   "description": "Shared TypeScript types, interfaces, and DTOs for loan management system",
   "type": "module",
