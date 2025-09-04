@@ -1,0 +1,44 @@
+# Source files (only include built files)
+src/
+scripts/
+tests/
+docs/
+tools/
+
+# Development files
+.gitignore
+.npmignore
+jest.config.js
+rollup.config.js
+tsconfig.json
+
+# Development dependencies
+node_modules/
+
+# Test files
+*.test.ts
+*.spec.ts
+__tests__/
+
+# Documentation
+README.md
+INTEGRATION_GUIDE.md
+CHANGELOG.md
+
+# Build configuration
+*.tsbuildinfo
+
+# Logs
+*.log
+logs/
+
+# Environment files
+.env*
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
