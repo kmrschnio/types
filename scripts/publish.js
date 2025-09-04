@@ -46,7 +46,7 @@ try {
 
   // Step 5: Push to git
   console.log('📤 Pushing to git...');
-  execSync('git push origin main --tags', { stdio: 'inherit' });
+  execSync('git push origin master --tags', { stdio: 'inherit' });
 
   console.log('✅ Successfully published!');
   console.log(`📦 Package: ${packageJson.name}`);
