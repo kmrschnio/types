@@ -1,5 +1,4 @@
-// Enums
 export * from './enums';
-
-// Interfaces
 export * from './interfaces';
+export * from './types';
+export type { ApiResponse } from './interfaces';

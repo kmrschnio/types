@@ -1,5 +1,1 @@
-
-// Example: export * from './some-frontend-only.interface';
-
-export {};
-
+export * from './modules';
